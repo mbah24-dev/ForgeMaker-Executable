@@ -8,7 +8,6 @@
         <li><strong>inc</strong> : contenant les fichiers d’en-tête</li>
     </ul>
     <p>Si ces répertoires ne sont pas présents, <strong>ForgeMaker</strong> ne pourra pas générer le Makefile et affichera un message d’erreur.</p>
-
     <h2>Comment Utiliser</h2>
     <ol>
         <li>Téléchargez l’exécutable depuis ce dépôt.</li>
@@ -17,10 +16,8 @@
         <pre><code>./ForgeMaker <Répertoire_fichiers_header> <Répertoire_fichiers_source></code></pre>
         <li>Le Makefile sera généré dans le répertoire courant.</li>
     </ol>
-
     <h2>Téléchargement</h2>
     <p>Vous pouvez télécharger l’exécutable précompilé dans la section <a href="releases">Releases</a> de ce dépôt.</p>
-
     <h2>Licence</h2>
     <p>Ce projet est sous licence <strong>MIT</strong>. Consultez le fichier LICENSE pour plus de détails.</p>
 </body>
