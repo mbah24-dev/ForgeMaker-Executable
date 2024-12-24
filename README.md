@@ -16,7 +16,7 @@
         <li>Si vous êtes sur macOS, autorisez son exécution :</li>
         <ol>
             <li>Accédez à <strong>Paramètres</strong> > <strong>Confidentialité et sécurité</strong>.</li>
-            <li>En bas de la section, cliquez sur <strong>Autoriser ForgeMaker</strong>.</li>
+            <li>En bas de la section securité cliquez sur <strong>Autoriser qu'a même</strong>.</li>
         </ol>
         <li>Assurez-vous que votre répertoire de travail contient les dossiers <code>src</code> et <code>inc</code>.</li>
         <li>Exécutez ForgeMaker :</li>
