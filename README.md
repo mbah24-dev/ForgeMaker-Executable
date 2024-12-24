@@ -11,6 +11,13 @@
     <h2>Comment Utiliser</h2>
     <ol>
         <li>Téléchargez l’exécutable depuis ce dépôt.</li>
+        <li>Donnez-lui les droits d'exécution :</li>
+        <pre><code>chmod +x ForgeMaker</code></pre>
+        <li>Si vous êtes sur macOS, autorisez son exécution :</li>
+        <ol>
+            <li>Accédez à <strong>Paramètres</strong> > <strong>Confidentialité et sécurité</strong>.</li>
+            <li>En bas de la section, cliquez sur <strong>Autoriser ForgeMaker</strong>.</li>
+        </ol>
         <li>Assurez-vous que votre répertoire de travail contient les dossiers <code>src</code> et <code>inc</code>.</li>
         <li>Exécutez ForgeMaker :</li>
         <pre><code>./ForgeMaker <Répertoire_fichiers_header> <Répertoire_fichiers_source></code></pre>
